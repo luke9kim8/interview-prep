@@ -1,3 +1,5 @@
+// Video: https://youtu.be/2akWpmBBJJA
+
 class Solution {
 public:
     bool isOneBitCharacter(vector<int>& bits) {
