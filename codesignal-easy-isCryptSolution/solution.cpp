@@ -1,3 +1,4 @@
+// Solution video: https://www.youtube.com/watch?v=8EuAeXbw8pw
 bool isCryptSolution(vector<string> crypt, vector<vector<char>> solution) {
     vector<int> numArr = {0,0,0};
     map<char, int> numMap;
